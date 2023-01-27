@@ -1,4 +1,8 @@
 .App {
   text-align: center;
+  overflow-x: hidden;
 }
 
+a{
+  text-decoration: none;
+}
